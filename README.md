@@ -4,6 +4,9 @@ A Python script that automatically organizes your Desktop files into
 folders based on their extensions (Images, Documents, Zips).
 
 Built as my first Python automation project — learning while shipping.
+## Demo
+
+![Desktop Cleaner Demo](demo.png)
 
 ## Features
 
